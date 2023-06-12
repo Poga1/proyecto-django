@@ -1,0 +1,32 @@
+.card-img-top{
+    width: 500px;
+    height: 500px;
+    margin: 0px;
+    padding: 0px;
+    align-self: center;
+    align-items: center;
+}
+.card{
+    width: 10px;
+    height: 800px;
+}
+
+.header{
+    display: flex;
+}
+.CarrodeCompra{
+    background-image: url(../img/fondo2.jpg);
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+}
+
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+

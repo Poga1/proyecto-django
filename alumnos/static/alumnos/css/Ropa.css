@@ -1,0 +1,85 @@
+  
+  .navbar-light .navbar-nav .nav-link{
+    color: black;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:hover{
+    color: white;
+  }
+  
+  .navbar {
+    box-shadow: 0px 10px 23px     rgba(0,0,0,0.50);
+  }
+  
+  .btn {
+    box-shadow: 0px 5px 20px     rgba(0,0,0,0.50);
+  }
+
+  .img2 {
+    width: 80px;
+   }
+
+   .container-form h1 {
+    font-size: 40px;
+    display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    margin-bottom: 15px;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    line-height: 3;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .RopaSantiago{
+    background-image: url(../img/fondo2.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .card{
+    .card {
+        width: 300px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+      }
+      
+      .card img {
+        width: 100%;
+        height: auto;
+      }
+      
+      .card-content {
+        padding: 16px;
+      }
+      
+      .card-content h3 {
+        margin-top: 0;
+      }
+      
+      .card-content p {
+        margin-bottom: 16px;
+      }
+      
+      .button {
+        display: inline-block;
+        padding: 8px 16px;
+        background-color: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+      }
+      
+      .button:hover {
+        background-color: #0056b3;
+      }
+      
+  }
+
+
+
+
